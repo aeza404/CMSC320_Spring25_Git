@@ -25,3 +25,18 @@ Additionally, data science can serve as a tool for predicting trends
 with certain diseases, illnesses, and outbreaks based on past trends 
 in certain regions.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging and rebase are used when changes for a feature are 
+made on one branch and have not been updated for another branch. For this
+update to occur the commits have to be combined for the branches to recieve the 
+changed commits. When it comes to merging two branches the histories are kept
+seperate and when merged they create a new merge commit from the individual branches.
+However, with rebasing it allows commits to stay linear since it just continues 
+adding the new commits from the last point of the branch with updated commits. 
+So if main has commits to be added to the feature branch instead of creating a 
+merge commit with both commits from main and the feature branch combined with the 
+new merge commit, which can sometimes be difficult to read, rebase makes it so the 
+commits are added on top of one another from the starting point of the last commits
+made my main.  
+
