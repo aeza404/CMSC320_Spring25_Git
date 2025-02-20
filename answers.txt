@@ -1,0 +1,16 @@
+Q1: Why might we consider using Git?
+
+Answer: We might consider using Git because it allows 
+developers to collaborate on projects while on their 
+local machines and still upload changes to a shared 
+repository. This is important especially if there are 
+changes that are being added or changed on a project 
+and allows for isolated testing before pushing specific 
+features into production. Git also tracks changes in 
+the repository and can be helpful when making changes 
+on a project. Additionally, git allows developers to 
+also see the work of other developers on the project 
+and provide feedback on their commits before merging. 
+Specifically for this class git will allow us to upload 
+our projects and collaborate with other teammates.
+
