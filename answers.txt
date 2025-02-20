@@ -14,3 +14,14 @@ and provide feedback on their commits before merging.
 Specifically for this class git will allow us to upload 
 our projects and collaborate with other teammates.
 
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to the medical field and 
+specifically fields related to epidemiology. Since epidemiology 
+focuses on studying the spread of diseases and determining factors 
+for diseases, data science can help with analyzing that data and 
+creating datasets and visualizations that track specific diseases. 
+Additionally, data science can serve as a tool for predicting trends 
+with certain diseases, illnesses, and outbreaks based on past trends 
+in certain regions.
+
