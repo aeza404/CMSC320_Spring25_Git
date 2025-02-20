@@ -40,3 +40,11 @@ new merge commit, which can sometimes be difficult to read, rebase makes it so t
 commits are added on top of one another from the starting point of the last commits
 made my main.  
 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am lookin forward to learning more about machine 
+learning and working on the final project. Additionally, 
+I look forward to working with Python because I have been 
+wanting to work more with it on projects and learn more 
+about its libraries. 
